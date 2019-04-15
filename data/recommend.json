@@ -1,0 +1,10 @@
+[
+{id:"1",title:"旺仔小馒头1",imgurl:"/images/l1.jpg",price:"19.90"},
+{id:"2",title:"旺仔小馒头2",imgurl:"/images/l2.jpg",price:"29.90"},
+{id:"3",title:"旺仔小馒头3",imgurl:"/images/l3.jpg",price:"39.90"},
+{id:"4",title:"旺仔小馒头4",imgurl:"/images/l4.jpg",price:"49.90"},
+{id:"5",title:"旺仔小馒头5",imgurl:"/images/l1.jpg",price:"19.90"},
+{id:"6",title:"旺仔小馒头6",imgurl:"/images/l2.jpg",price:"29.90"},
+{id:"7",title:"旺仔小馒头7",imgurl:"/images/l3.jpg",price:"39.90"},
+{id:"8",title:"旺仔小馒头8",imgurl:"/images/l4.jpg",price:"49.90"}
+]

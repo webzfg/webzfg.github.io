@@ -7,7 +7,6 @@
 
 - QQ:  1255041122
 - email:  1255041122@qq.com
-- 微信:  haotiankkll
 - 个人博客: https://webzfg.github.io
 
 
